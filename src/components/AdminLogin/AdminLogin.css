@@ -1,0 +1,15 @@
+.login-form{
+    width: 40vw;
+    border: 1px solid gray;
+    padding: 20px;
+    height: 60vh;
+}
+.google-btn{
+  border: 1px solid gray;
+  outline: none;
+  padding: 16px 18px;
+  border-radius: 5px;
+}
+.google-btn:focus{
+    outline: none;
+}
